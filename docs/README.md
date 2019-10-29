@@ -15,7 +15,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
-* Predictive Modeling
+* Classification Modeling
 * etc.
 
 ### Technologies
