@@ -3,7 +3,7 @@
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+This project is an exercise in visualizing geographic dependencies of Absolute Upward Mobility by US County. The current view displays mobility figures for children born into families at the 25th percentile of the national income distribution. 
 
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
@@ -16,7 +16,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Machine Learning
 * Data Visualization
 * Classification Modeling
-* etc.
+* 
 
 ### Technologies
 * Python
