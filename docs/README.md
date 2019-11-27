@@ -3,20 +3,20 @@
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-This project is an exercise in visualizing geographic dependencies of Absolute Upward Mobility by US County. The current view displays mobility figures for children born into families at the 25th percentile of the national income distribution. 
+This project is an exercise in visualizing geographic dependencies of Absolute Upward Mobility by US County. The current view displays mobility figures for children born into families at the 25th percentile of the national income distribution.
+The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo) and project slides [here](https://drive.google.com/open?id=1kgFc8XZJ-JGDLEMXgHrtzB9Rw8NsO-NQ).
 
-### Collaborators
+### Project Contact
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
 |Nateé Johnnson | [nateej1](https://github.com/nateej1)| [nateej1.github.io](https://nateej1.github.io/)  |
-|-------| [---](#) | --- |
 
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
 * Classification Modeling
-* 
+
 
 ### Technologies
 * Python
