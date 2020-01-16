@@ -44,7 +44,7 @@ Future work includes:
 
 
 ## Featured Deliverables
-* [National Intergenerational Economic Mobility - Slides](../National-Intergenerational-Economic-Mobility.pptx)
+* [National Intergenerational Economic Mobility - Slides](https://drive.google.com/open?id=1kgFc8XZJ-JGDLEMXgHrtzB9Rw8NsO-NQ)
 * [Absolute Upward Mobility - Map](http://nateej1.github.io/AmericanDream_Geo)
 * [Blog Post](#)
 
