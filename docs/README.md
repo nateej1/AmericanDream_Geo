@@ -4,11 +4,12 @@
 
 ![AUM-map](../AUM-map-preview.png)
 
-## Project Intro/Objective
+## Project Introduction & Objective
 
+For children raised in lower- to middle- income families, where they grow-up impacts their long-term outcomes. Inspired by the extensive series of studies by the Opportunity Insights team housed at Harvard University, this project explores what aspects of an area account for the impact on economic outcomes. 
 
-This project is an exercise in visualizing geographic dependencies of Absolute Upward Mobility by US County. The current view displays mobility figures for children born into families at the 25th percentile of the national income distribution.
-The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo) and project slides [here](https://drive.google.com/open?id=1kgFc8XZJ-JGDLEMXgHrtzB9Rw8NsO-NQ).
+Additionally, this project is an exercise in visualizing geographic trends of Absolute Upward Mobility by US County. The static image (shown above) is a preview of the interactive map that displays mobility figures for children born into families at the 25th percentile of the national income distribution.
+The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo) and project slides with further detail [here](https://drive.google.com/open?id=1kgFc8XZJ-JGDLEMXgHrtzB9Rw8NsO-NQ).
 
 ### Project Contact
 |Name     |  Github Page   |  Personal Website  |
@@ -29,6 +30,8 @@ The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo
 * HTML
 
 ## Project Description
+
+
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 
