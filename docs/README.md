@@ -2,7 +2,11 @@
 
 #### -- Project Status: [Active]
 
+![AUM-map](../AUM-map-preview.png)
+
 ## Project Intro/Objective
+
+
 This project is an exercise in visualizing geographic dependencies of Absolute Upward Mobility by US County. The current view displays mobility figures for children born into families at the 25th percentile of the national income distribution.
 The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo) and project slides [here](https://drive.google.com/open?id=1kgFc8XZJ-JGDLEMXgHrtzB9Rw8NsO-NQ).
 
