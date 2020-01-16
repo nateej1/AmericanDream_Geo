@@ -31,21 +31,21 @@ The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo
 
 ## Project Description
 
+Previous studies have determined that where you grow up impacts your ability to move up in the national economic rankings. This project furthers that line of study by asking "what about where you're from matters?". Using income distribution data from Opportunity Insights, county-level data was merged with county "features" collected/provided by [County Health Rankings](https://countyhealthrankings.org).
+A Random Forest Classifier was employed to distinguish between counties labeled as "mobile" and "not mobile", "mobile" being defined as children raised in that county, on average, move at least 25 percentiles beyond their parents' economic ranking. The model was then queried for which features were most important in successfully distinguishing between these counties. Of the available features, share of income held by middle class, teen pregnancy rate, and unemployment rate were the most important distinguishing factors. 
+The map visualization created provides two layers of exploration. When selected singularly, the layer titled "Can Child Move At Least 1 Quartile Up", shows how each county was defined for the purposes of this study. Markers indicate the highest and lowest mobility counties. When singularly selecting the "Absolute Upward Mobility" layer, users can hover over an area to learn the statistics specific to that county.
 
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+Future work includes: 
+* Incorporating more county data (education, business ownership, transporation, etc.)
+* Enhancing interactivity of map by including slider to change the "origin economic ranking"
+* Further parameter tuning for the classifier
+* More rigorous feature engineering analysis
 
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](#)
-* [Notebook/Markdown/Slide DeckTitle](#)
+* [National Intergenerational Economic Mobility - Slides](../National Intergenerational Economic Mobility.pptx)
+* [Absolute Upward Mobility - Map](http://nateej1.github.io/AmericanDream_Geo)
 * [Blog Post](#)
 
 ---
