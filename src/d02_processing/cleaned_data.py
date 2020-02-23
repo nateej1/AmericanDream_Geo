@@ -34,7 +34,8 @@ def Clean_OppIns_raw():
         lambda x: str(x).zfill(5))
 
     # Exporting data as pkl into new notebook for modeling.
-    return county_mobility.to_pickle('../../data/02_intermediate/county_mobility_incomeOnly')
+    county_mobility.to_pickle('../../data/02_intermediate/county_mobility_incomeOnly')
+    return county_mobility
 
 
 
