@@ -23,7 +23,7 @@ The visualization can be found [here](http://nateej1.github.io/AmericanDream_Geo
 * Classification Modeling
 
 
-### Technologies
+### Languages & Libraries Employed
 * Python
 * Pandas, jupyter
 * Folium
