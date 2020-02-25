@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix
 
 def plot_confusion_matrix(y_true, y_pred, classes,
                           size=(10, 6),
